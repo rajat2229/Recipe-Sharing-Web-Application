@@ -107,7 +107,7 @@ table, th, td {
     padding: 8px;
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
     nav ul {
         flex-direction: column;
@@ -141,7 +141,7 @@ table, th, td {
     border: 1px solid #666;
     color: white;
 }
-/* Hero Section */
+
 .hero {
     background: url('../assets/images/hero-bg.jpg') center/cover no-repeat;
     height: 50vh;
@@ -213,7 +213,7 @@ table, th, td {
     margin-bottom: 10px;
 }
 
-/* Footer */
+
 footer {
     text-align: center;
     padding: 15px;
