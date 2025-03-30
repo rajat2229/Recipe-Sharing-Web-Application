@@ -114,3 +114,30 @@ table, th, td {
         align-items: center;
     }
 }
+.dark-mode {
+    background: #222;
+    color: white;
+}
+
+.dark-mode header {
+    background: linear-gradient(90deg, #333, #222);
+}
+
+.dark-mode nav ul li a {
+    color: #ff9800;
+}
+
+.dark-mode article {
+    background: #333;
+    color: white;
+}
+
+.dark-mode button {
+    background: #ff9800;
+    color: black;
+}
+
+.dark-mode table, .dark-mode th, .dark-mode td {
+    border: 1px solid #666;
+    color: white;
+}
